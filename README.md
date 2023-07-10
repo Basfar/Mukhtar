@@ -1,13 +1,22 @@
-Hi there 👋
-I am Mukhtar Onifade, a Google Certified Associate Android Developer. I am currently a Software Engineer at Seamfix and an ex-volunteer Android Engineer at Fightpandemics
+### Hi there 👋
+I am Mukhtar Onifade. I am currently a [Software Engineer](https://github.com/basfar) at [Seerbit](https://seerbit.com/) and an open source contributor.
 
-🔭 I’m currently working mainly on Android Projects and a little bit of backend. I document my findings on Medium and on Dev
-🌱 I’m currently playing around with Jetpack Compose and Spring Boot
-💻 Languages: Kotlin, Java, Python and TypeScript
-👯 I’m looking to collaborate on open-source projects
-💬 Ask me about Android, Cycling
-📫 How to reach me: Twitter, LinkedIn
-😄 Pronouns: He/Him
-⚡ Fun fact: If I'm not coding, I'm probably cycling, catching fun or at the Gym
-Technologies and Tools
-Kotlin Android Git GitHub SQL Gradle Android Studio Firebase JUnit Java Spring
+- 🔭 I’m currently working mainly on Backend Projects and a little bit of frontend. 
+- 🌱 I’m currently playing around with GoLang.
+- 💻 Languages: Java, GoLang, Kotlin and JavaScript
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about Backend, Books 
+- 📫 How to reach me: [Twitter](https://twitter.com/mukhtar_onif), [LinkedIn](https://www.linkedin.com/in/mukhtar-onif/)/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: If I'm not coding, I'm probably writing at [Susbstack](https://mukhtaronifade.substack.com/), reading books
+
+### Technologies and Tools
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![GoLang](https://img.shields.io/badge/-GoLang-333333?style=flat&logo=java)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+  ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![JUnit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit)
