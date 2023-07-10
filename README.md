@@ -14,6 +14,7 @@ I am Mukhtar Onifade. I am currently a [Software Engineer](https://github.com/ba
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![GoLang](https://img.shields.io/badge/-GoLang-333333?style=flat&logo=java)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
