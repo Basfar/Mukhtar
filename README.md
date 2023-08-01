@@ -1,14 +1,14 @@
 ### Hi there 👋
-I am Mukhtar Onifade. I am currently a [Software Engineer](https://github.com/basfar) at [Seerbit](https://seerbit.com/) and an open source contributor.
+I am Mukhtar Onifade. I am currently a [Software Engineer](https://github.com/basfar) at [Seerbit](https://seerbit.com/) and contributor at [Novu](https://github.com/novuhq)
 
 - 🔭 I’m currently working mainly on Backend Projects and a little bit of frontend. 
 - 🌱 I’m currently playing around with GoLang.
 - 💻 Languages: Java, GoLang, Kotlin and JavaScript
 - 👯 I’m looking to collaborate on open-source projects
-- 💬 Ask me about Backend, Books 
-- 📫 How to reach me: [Twitter](https://twitter.com/mukhtar_onif), [LinkedIn](https://www.linkedin.com/in/mukhtar-onif/)/)
+- 💬 Ask me about Engineering, Devops .... 
+- 📫 How to reach me: [Twitter](https://twitter.com/mukhtar_onif), [LinkedIn](https://www.linkedin.com/in/mukhtar-onif/))
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If I'm not coding, I'm probably writing at [Susbstack](https://mukhtaronifade.substack.com/), reading books
+- ⚡ Fun fact: If I'm not coding, I'm probably writing at [Susbstack](https://mukhtaronifade.substack.com/), reading books ..
 
 ### Technologies and Tools
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
