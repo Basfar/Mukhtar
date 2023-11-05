@@ -11,15 +11,6 @@ I am Mukhtar Onifade. I am currently a [Software Engineer](https://github.com/ba
 - ⚡ Fun fact: If I'm not coding, I'm probably writing at [Susbstack](https://mukhtaronifade.substack.com/), reading books ..
 
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=basfar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=basfar&layout=compact&langs_count=8&theme=dark"/>
-</a>
-</p>
-
 ### Technologies and Tools
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
