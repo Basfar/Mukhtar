@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Mukhtar Onifade. I am currently a [Software Engineer](https://github.com/basfar) at [Seerbit](https://seerbit.com/) and contributor at [Novu](https://github.com/novuhq)
+I am Mukhtar Onifade. I am currently a [Software Engineer](https://github.com/basfar) at [AmariPax](https://www.amaripax.com/) and contributor at [Novu](https://github.com/novuhq)
 
 - 🔭 I’m currently working mainly on Backend Projects and a little bit of frontend. 
 - 🌱 I’m currently playing around with GoLang.
